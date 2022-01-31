@@ -1,4 +1,4 @@
-Symbol
+gene_id
 BX510909.2
 nkx2
 znf1034
