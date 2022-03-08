@@ -1,13 +1,14 @@
 gene_id
 blf
+drl
 drll.1
 drll.2
 elf1
 erg
-etv2
-fli1a
+etsrp
 gata1a
 gfi1aa
+hand2
 hnf4g
 irx6a
 isl2a
@@ -16,11 +17,12 @@ myb
 nfatc3a
 nkx2.5
 nkx2.7
+osr1
 pax1b
 pitx3
 pknox2
 rarga
-setx
+rnh1
 six1a
 six1b
 six2b
@@ -32,3 +34,4 @@ tal1
 tbx1
 tbx20
 wt1a
+znf653
